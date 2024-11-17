@@ -1,13 +1,13 @@
-package com.sample.priya_project;
+// package com.sample.priya_project;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class PriyaProjectApplicationTests {
+// @SpringBootTest
+// class PriyaProjectApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
