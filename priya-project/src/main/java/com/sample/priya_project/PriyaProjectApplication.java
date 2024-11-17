@@ -8,6 +8,7 @@ public class PriyaProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PriyaProjectApplication.class, args);
+		System.out.println("Hello");
 	}
 
 }
